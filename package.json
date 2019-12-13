@@ -1,0 +1,22 @@
+{
+  "name": "aatm1-cypress",
+  "version": "1.0.0",
+  "description": "AATM1-Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximLiubinski/AATM1-Cypress.git"
+  },
+  "author": "Maksim Liubinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximLiubinski/AATM1-Cypress/issues"
+  },
+  "homepage": "https://github.com/MaximLiubinski/AATM1-Cypress#readme",
+  "dependencies": {
+    "cypress": "^3.7.0"
+  }
+}
